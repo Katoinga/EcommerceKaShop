@@ -1,0 +1,2 @@
+estas imagenes van en esta ruta: 
+C:\xampp\htdocs\ecommerce-1\admin\products\uploaded_photos

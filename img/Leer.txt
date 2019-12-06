@@ -1,0 +1,2 @@
+Ruta:
+C:\xampp\htdocs\ecommerce-1\img
